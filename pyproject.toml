@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "caffeine"
 version = "0.1.0"
-description = "Inhibits the screensaver and sleep mode like a boos."
+description = "Inhibits the screensaver and sleep mode like a boss."
 authors = ["André P. Santos <andreztz@gmail.com>"]
 
 [tool.poetry.dependencies]
