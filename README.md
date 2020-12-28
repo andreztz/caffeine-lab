@@ -1,5 +1,5 @@
 # caffeine-lab
-> Inhibits the screensaver and sleep mode like a boos.
+> Inhibits the screensaver and sleep mode like a boss.
 
 
 ## Installation
