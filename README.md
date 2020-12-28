@@ -13,7 +13,7 @@ $ pip install --user git+https://github.com/andreztz/caffeine-lab.git
 ## Usage example
 
 ```sh
-$ caffeine-lab
+$ caffeine
 ```
 
 
